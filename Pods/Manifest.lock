@@ -1,0 +1,22 @@
+PODS:
+  - KIF (3.8.6):
+    - KIF/Core (= 3.8.6)
+  - KIF/Core (3.8.6)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - KIF
+  - Masonry
+
+SPEC REPOS:
+  trunk:
+    - KIF
+    - Masonry
+
+SPEC CHECKSUMS:
+  KIF: e2e1bab222b6c9523a0a88caab31f8524fe82404
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 0c35e36e4cfa11e6fd9a156b6d2251b5b9e15cdc
+
+COCOAPODS: 1.11.2
